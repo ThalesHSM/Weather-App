@@ -6,19 +6,15 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "@types/datejs": "^0.0.31",
-    "@types/jest": "^26.0.15",
-    "@types/node": "^12.0.0",
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
-    "@types/styled-components": "^5.1.14",
     "axios": "^0.21.4",
     "moment": "^2.29.1",
     "react": "^17.0.2",
+    "react-activity": "^2.1.1",
     "react-dom": "^17.0.2",
     "react-icons": "^4.2.0",
     "react-moment": "^1.1.1",
     "react-scripts": "4.0.3",
+    "react-select": "^5.1.0",
     "styled-components": "^5.3.1",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
@@ -46,5 +42,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.10.3",
+    "@types/react": "^17.0.27",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-select": "^5.0.1",
+    "@types/styled-components": "^5.1.15"
   }
 }
